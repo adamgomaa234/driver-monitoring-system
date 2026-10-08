@@ -1,0 +1,9 @@
+datasets/raw/*/*
+!datasets/raw/*/.gitkeep
+datasets/*.csv
+datasets/distraction_training_data/
+models/*.pt
+models/*.json
+__pycache__/
+.ipynb_checkpoints/
+.venv/
